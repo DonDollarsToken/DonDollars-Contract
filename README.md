@@ -1,3 +1,5 @@
+![alt text]([http://url/to/img.png](https://dondollars.world/wp-content/uploads/2020/02/DonDollars-Logo-350100.png))
+
 # DonDollars-Contract
 DonDollars have decided to show all source code for transparency. At least we hope that we are giving more confidence :) Stay with our real family!
 
